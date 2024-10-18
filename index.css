@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    text-align: center;
+}
+
+#jatekm{
+    text-align: center;
+    background-color: aliceblue;
+    width: 600px;
+    height: 400px;
+    margin: auto;
+}
